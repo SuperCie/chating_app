@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607362430124",
+    "project_id": "triallineapp",
+    "storage_bucket": "triallineapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607362430124:android:e93fb7b586f7abf11a1b09",
+        "android_client_info": {
+          "package_name": "com.trialline.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfUnN4LZK_8W3DVsMqAju_QRK-FpT8Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
